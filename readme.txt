@@ -1,0 +1,2 @@
+Since the time of Covid 19,the amount of fake news on the internet has grown exponentially. Even though the news is fake,it can have very real consequences.So there is a great need for a system that tells whether a given news is fake or not with significant accuracy.
+The Motivation for solving the fake news detection problem is rooted in addressing a critical societal need for information integrity in the digital era.By reducing the spread of false information,the solution contributes to preventing potential consequences and confusion caused by inaccuracies
